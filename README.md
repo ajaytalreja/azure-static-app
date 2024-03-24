@@ -1,0 +1,2 @@
+# azure-static-app
+AzureStaticWebApp
